@@ -4,7 +4,7 @@
 
 
 ## NS Facebook UI
-The objective of this project is to design a UI mobile app like Facebook using Nativescript Vue. Master your layout elements and create any social media app.
+The objective of this project is to design a UI mobile app like Facebook using Nativescript Vue. Master your layout elements and create your own social media app. 🎉
 
 If happen you 💖 my project please dont forget to give me a ⭐. Show your love and give me more motivation to create more open source project using Nativescript. 👍
 
