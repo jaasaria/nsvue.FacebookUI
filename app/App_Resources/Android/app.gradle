@@ -3,7 +3,7 @@
 android {
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.application"
+    applicationId = "org.nativescript.jaafacebookui"
   }
   aaptOptions {  
     additionalParameters "--no-version-vectors"  

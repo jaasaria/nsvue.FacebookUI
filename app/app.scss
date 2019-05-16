@@ -23,6 +23,27 @@ Page{
 	font-family: "ionicons";
 }
 
+.center-all {
+  vertical-align: center;
+  horizontal-align: center;
+}
+.center-v {
+  vertical-align: center;
+}
+.center-h {
+  horizontal-align: center;
+}
+
+.profile {
+  border-width: 1;
+  border-color: white;
+  background-color: green;
+  border-radius: 50%;
+  margin-right: 15;
+  margin-left: 10;
+  width: 40;
+  height: 40;
+}
 
 .line-card {
   border: 0;

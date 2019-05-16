@@ -17,6 +17,10 @@ export const friends = [
 		name: "Artist Alodia Gosiengfiao",
 		picture: '~/assets/images/friends/profile4.jpg'
 	},
+	{
+		name: "Iloilo Printing Haus",
+		picture: '~/assets/images/friends/profile5.jpg'
+	},
 
 ]
 
