@@ -1,3 +1,0 @@
-<template>
-  <!-- no time -->
-</template>

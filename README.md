@@ -16,6 +16,8 @@ If happen you 💖 my project please dont forget to give me a ⭐. Show your lov
 
 #### Todo: 
 - [ ] Card Footer Function - like, comment and share
+- [ ] More Dummy Data
+- [ ] Implement load more
 
 
 #### Plugin Used

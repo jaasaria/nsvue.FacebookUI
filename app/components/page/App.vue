@@ -1,24 +1,24 @@
 <template>
   <Page actionBarHidden="true" androidStatusBarBackground="#4167b2">
     <GridLayout rows="auto, *,auto" columns="*">
-      <NavBar row="0" col="0"></NavBar>
-      <NavCompose row="1" col="0"></NavCompose>
-      <NavBottom row="2" col="0"></NavBottom>
+      <NavHeader row="0" col="0"></NavHeader>
+      <NavBody row="1" col="0"></NavBody>
+      <NavFooter row="2" col="0"></NavFooter>
     </GridLayout>
   </Page>
 </template>
 
 
 <script >
-import NavBottom from "@/components/custom/NavBottom";
-import NavBar from "@/components/custom/navbar";
-import NavCompose from "@/components/custom/NavCompose";
+import NavHeader from "@/components/custom/NavHeader";
+import NavBody from "@/components/custom/NavBody";
+import NavFooter from "@/components/custom/NavFooter";
 
 export default {
   components: {
-    NavBottom,
-    NavBar,
-    NavCompose
+    NavHeader,
+    NavBody,
+    NavFooter
   },
   data() {
     return {
